@@ -16,6 +16,6 @@ The dashboard provides data-driven insights that help understand mental health p
 * Dashboard Design
 * Analytical Thinking
 
-## Screenshot of Dashboard
- ![Dashboard Overview](<img width="1661" height="848" alt="Screenshot Of Dashboard" src="https://github.com/user-attachments/assets/04ffa40d-418d-48c5-a540-1e219e66d3d2" />
-.png)  
+### Dashboard Overview
+
+![Dashboard Overview](Screenshot Of Dashboard.png)
