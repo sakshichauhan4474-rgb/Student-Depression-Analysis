@@ -21,7 +21,6 @@ The dashboard provides data-driven insights that help understand mental health p
 
 ) 
 
- ![Dashboard Overview](https://github.com/sakshichauhan4474-rgb/Sample-Super-Store-Report/blob/main/Sample%20Super%20Report.png)  
 
 
 
