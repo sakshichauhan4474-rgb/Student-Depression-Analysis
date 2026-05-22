@@ -18,9 +18,4 @@ The dashboard provides data-driven insights that help understand mental health p
 
 ## Screenshot of Dashboard
 ![Dashboard Overview](https://github.com/sakshichauhan4474- <img width="1661" height="848" alt="Screenshot Of Dashboard" src="https://github.com/user-attachments/assets/e29283c6-0a23-4c90-85aa-d9065b062da6" />
-
-) 
-
-
-
-
+)
